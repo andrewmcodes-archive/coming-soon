@@ -1,0 +1,23 @@
+.font-sans {
+  font-family: 'work-sans', Arial, Helvetica, sans-serif;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.w-5 {
+  width: 100%;
+}
+.h-5 {
+  height: 100%;
+}
+
+.logo {
+  margin-bottom: 2rem;
+}
+ h1 {
+   font-size: 4rem;
+ }
