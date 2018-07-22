@@ -32,6 +32,13 @@
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+@media only screen and (min-width: 600px) {
+  h1 {
+    font-size: 4rem;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
